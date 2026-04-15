@@ -16,7 +16,7 @@ In this exercise, you'll build an MCP server from scratch using [FastMCP](https:
 
 ## Step 1: Create the server skeleton
 
-Create the `servers/` directory and a file called `servers/store_server.py` with the following starter code:
+Create a file called `servers/store_server.py` with the following starter code:
 
 ```python
 import logging
